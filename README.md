@@ -1,5 +1,4 @@
-# Document Assistant
-
+# LLM-assisted Pdf Viewer
 Transform your PDF documents into intelligent insights with our AI-powered analysis tool. Simply upload any PDF, extract its text, and engage in real-time conversations with an AI assistant that understands your document's content. Get instant summaries, explanations, and translations in 8 languages. Perfect for researchers, students, and professionals who need quick document analysis without the complexity.
 
 ## Demo
