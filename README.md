@@ -2,7 +2,7 @@
 
 Transform your PDF documents into intelligent insights with our AI-powered analysis tool. Simply upload any PDF, extract its text, and engage in real-time conversations with an AI assistant that understands your document's content. Get instant summaries, explanations, and translations in 8 languages. Perfect for researchers, students, and professionals who need quick document analysis without the complexity.
 
-## 🎥 Demo Video
+## Demo
 
 Watch the Document Assistant in action:
 
@@ -82,6 +82,19 @@ document-chatbot/
 └── lib/
     └── utils.ts       # Utility functions
 ```
+
+## 📄 License
+
+MIT License
+
+## 🤝 Contributing
+
+Issues and Pull Requests are welcome to improve this project.
+
+## 🔗 Links
+
+- **GitHub Repository**: [llm-assisted-pdf-viewer](https://github.com/Yingna0614/llm-assisted-pdf-viewer)
+- **Demo Video**: [Watch Demo](https://drive.google.com/file/d/1MJSno2L64SfDfLkg9TisRCzzkZ1uQRvn/view?usp=drive_link)
 
 ---
 
